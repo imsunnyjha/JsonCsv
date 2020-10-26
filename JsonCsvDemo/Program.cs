@@ -8,7 +8,7 @@ namespace JsonCsvDemo
         {
             Console.WriteLine("Read data from csv>>>>>>>>>");
             CsvHandler.ImplementCSVDataHandling();
-
+            CsvToJson.ImplementCSVToJSON();
         }
     }
 }
